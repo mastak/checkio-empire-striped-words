@@ -12,3 +12,5 @@ that is; words that you count cannot have two consecutive vowels or consonants.
 The words consisting of a single letter are not striped -- do not count those. Casing is not significant for this mission.
 
 TEST
+
+TEST2
