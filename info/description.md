@@ -11,4 +11,4 @@ You should count the number of words (striped words) where the vowels with conso
 that is; words that you count cannot have two consecutive vowels or consonants.
 The words consisting of a single letter are not striped -- do not count those. Casing is not significant for this mission.
 
-</p>
+TEST
