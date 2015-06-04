@@ -2,7 +2,7 @@ TESTS = {
     "Rank_01": [
         {
             "input": "My name is ...",
-            "answer": 3,
+            "answer": 0, #3
             "explanation": 0
         },
         {
