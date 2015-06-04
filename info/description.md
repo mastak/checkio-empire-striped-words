@@ -10,7 +10,3 @@ Numbers are not considered words in this mission (a mix of letters and digits is
 You should count the number of words (striped words) where the vowels with consonants are alternating,
 that is; words that you count cannot have two consecutive vowels or consonants.
 The words consisting of a single letter are not striped -- do not count those. Casing is not significant for this mission.
-
-TEST
-
-TEST2
