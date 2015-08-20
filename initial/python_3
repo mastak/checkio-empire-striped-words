@@ -12,3 +12,5 @@ if __name__ == '__main__':
     assert striped_words("Hello world") == 0, "No one"
     assert striped_words("A quantity of striped words.") == 1, "Only of"
     assert striped_words("Dog,cat,mouse,bird.Human.") == 3, "Dog, cat and human"
+
+    print("Coding complete? Click 'Check' to review your tests and earn cool rewards!")
