@@ -16,4 +16,6 @@ if (!global.is_checking) {
     assert.equal(stripedWords("Hello world"), 0, "No one");
     assert.equal(stripedWords("A quantity of striped words."), 1, "Only of");
     assert.equal(stripedWords("Dog,cat,mouse,bird.Human."), 3, "Dog, cat and human");
+    console.log("All done? Earn rewards by using the 'Check' button!");
 }
+
